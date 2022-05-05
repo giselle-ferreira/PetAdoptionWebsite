@@ -1,4 +1,22 @@
-# PetAdoption
+<p align="center">
+<img src="https://i.postimg.cc/MZ16GZ1w/petadoption.png">
+</p>
+
+<h2 align="center">PetAdoptionWebsite [In Progress...]</h2>
+
+<br/>
+
+>## About
+Pet Adoption Website designed primarily with Figma and developed in Angular 13, with Tailwind.
+
+<br/>
+
+>## Design (Figma Prototype)
+<img src="https://github.com/giselle-ferreira/PetAdoptionWebsite/blob/main/src/assets/gif/design-adoption-website.gif">
+
+<br/>
+
+xxxxxx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
