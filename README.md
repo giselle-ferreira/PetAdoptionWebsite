@@ -7,7 +7,7 @@
 <br/>
 
 >## About
-Pet Adoption Website designed primarily with Figma and developed in Angular 13, with Tailwind.
+Pet Adoption Website designed primarily with Figma and developed in ReactJS.
 
 <br/>
 
