@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/MZ16GZ1w/petadoption.png">
 </p>
 
-<h2 align="center">PetAdoptionWebsite [In Progress...]</h2>
+<h2 align="center">PetAdoptionWebsite [In Progress...] 🚧</h2>
 
 <br/>
 
@@ -12,7 +12,7 @@ Pet Adoption Website designed primarily with Figma and developed in ReactJS.
 <br/>
 
 >## Design (Figma Prototype)
-<img src="https://github.com/giselle-ferreira/PetAdoptionWebsite/blob/main/src/assets/gif/design-adoption-website.gif">
+<img src="https://github.com/giselle-ferreira/PetAdoptionWebsite/blob/main/src/Assets/gif/design-adoption-website.gif">
 
 <br/>
 
